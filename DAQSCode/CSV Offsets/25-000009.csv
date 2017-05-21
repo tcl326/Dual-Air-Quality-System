@@ -1,0 +1,9 @@
+SensorType,NO2,O3,CO,SO2
+WEElectronicZero(mV),277,403,272,276
+WESensorZero(mV),-57,5,38,0
+WETotalZero(mV),220,408,310,276
+AEElectronicZero(mV),293,410,279,292
+AESensorZero(mV),-3,-3,-4,4
+TOTALAEZero(mV),290,407,275,296
+Sensitivty(mv/ppb),204,283,259,280
+SensitivtyNO2(mv/ppb),204,189,,

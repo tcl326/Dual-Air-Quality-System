@@ -1,0 +1,9 @@
+Sensor Type,NO2,OX,CO,SO2
+WE Electronic Zero (mV),281,397,272,294
+WE Sensor Zero (mV),-70,-10,49,-3
+WE Total Zero (mV),211,387,321,291
+AE Electronic Zero (mV),298,399,296,300
+AE Sensor Zero (mV),-4,-2,3,2
+TOTAL AE  Zero (mV),294,397,299,302
+Sensitivty (mv/ppb),186,312,293,300
+Sensitivty NO2 (mv/ppb),186,228,,

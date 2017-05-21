@@ -1,0 +1,14 @@
+For any code being made, make a folder in this location with a title that describes what the code is for.
+
+When writing the code, use many comments so others can understand what is going on. Put your initials at the start.
+
+For example:
+#WY: This is my comment.
+
+Each time you go and make a revision. Open the file, click save as and save a new file in the same folder named "FILENAME Rn",
+where n is the next number in the sequence.
+
+For example:
+If a new py file was made by Yara and called Converter.py
+If I went in and worked on it, I would open the file and before doing any work, I would save it as "Converter R1.py".
+Then if she worked on it later, she would open Converter R1 and click save as, before doing any work under the name "Converter R2.py".
